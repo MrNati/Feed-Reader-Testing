@@ -71,4 +71,6 @@ When you're all finished, write a `README` file detailing all steps required to 
 
 # Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This repository is the starter code for _all_ Udacity students.
+
+#### For a live preview of this project, click [Me]()
