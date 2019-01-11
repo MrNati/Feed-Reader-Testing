@@ -73,4 +73,4 @@ When you're all finished, write a `README` file detailing all steps required to 
 
 This repository is the starter code for _all_ Udacity students.
 
-#### For a live preview of this project, click [Me]()
+<!-- #### For a live preview of this project, click [Me]() -->
