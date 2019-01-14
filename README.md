@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
+In this project, I was given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where I came in.
 
 
 ## Why this Project?
@@ -12,19 +12,19 @@ Whether you work in an organization that uses test-driven development or in an o
 
 ## What will I learn?
 
-You will learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
+I learnt how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 
 ## How will this help my career?
 
 Writing effective tests requires analyzing multiple aspects of an application including the HTML, CSS and JavaScript - an extremely important skill when changing teams or joining a new company.
 
-Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
+Good tests gave me the ability to quickly analyze whether new code breaks an existing feature within my codebase, without having to manually test all of the functionality.
 
 
 # Development Strategy
 
-For a refresher (or reference) before you begin writing code, we recommend reviewing the content from [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549). Your project will be evaluated by a Udacity code reviewer according to the [Feed Reader Testing project rubric](https://review.udacity.com/#!/rubrics/18/view). Please review for detailed project requirements.
+For a refresher (or reference) before I began writing code, I started by reviewing the content from [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549). My project will be evaluated by a Udacity code reviewer according to the [Feed Reader Testing project rubric](https://review.udacity.com/#!/rubrics/18/view). Please review for detailed project requirements.
 
 1. Familiarize yourself with the starter code
     * Open up `index.html` and review the functionality of the application within your browser
@@ -71,6 +71,4 @@ When you're all finished, write a `README` file detailing all steps required to 
 
 # Contributing
 
-This repository is the starter code for _all_ Udacity students.
-
-<!-- #### For a live preview of this project, click [Me]() -->
+This repository is the starter code for _all_ Udacity students. To see a live preview of this repository, [Click Me!](https://mrnati.github.io/Feed-Reader-Testing/)
