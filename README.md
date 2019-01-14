@@ -71,4 +71,4 @@ When you're all finished, write a `README` file detailing all steps required to 
 
 # Contributing
 
-This repository is the starter code for _all_ Udacity students. To see a live preview of this repository, [Click Me!](https://mrnati.github.io/Feed-Reader-Testing/)
+This repository is the starter code for _all_ Udacity students.
